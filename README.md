@@ -1,0 +1,3 @@
+# -discord_bot-voice_announcer
+discord上で機能するBotです。
+セキュリティの都合上config.jsは入っていないので利用する場合はご自身で製作してください。
