@@ -1,7 +1,17 @@
 {
-  "clientId": "xxx",
-  "comment": "xxx",
-  "guildId": "xxx",
-  "channelId": "xxx",
-  "token": "xxxx"
+  "servers": [
+    {
+      "clientId": "xxxxxxxxxxxxxxxxx",
+      "comment": "xxxxxxxxxxxxxxxxx",
+      "guildId": "xxxxxxxxxxxxxxxxx",
+      "channelId": "xxxxxxxxxxxxxxxxx"
+    },
+    {
+      "clientId": "xxxxxxxxxxxxxxxxx",
+      "comment": "xxxxxxxxxxxxxxxxx",
+      "guildId": "xxxxxxxxxxxxxxxxx",
+      "channelId": "xxxxxxxxxxxxxxxxx"
+    }
+  ],
+  "token": "xxxxxxxxxxxxxxxxx"
 }
